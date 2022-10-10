@@ -67,4 +67,3 @@ All Python dependencies are stored in the requirements.txt file. To install them
     ```
 - Check [here](https://docs.microsoft.com/en-us/sql/connect/odbc/linux-mac/install-microsoft-odbc-driver-sql-server-macos?view=sql-server-ver15) to add SQL Server drivers for Mac.
 
-## Hosted App <a href="https://cms-project.azurewebsites.net/">Link</a>
